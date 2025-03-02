@@ -3,8 +3,8 @@ title: "Deep Learning-Based Dispatching Conflict Avoider in Mobile Edge Computin
 collection: Accepted
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: '基于Seq2seq网络搭建智能体，部署在边缘服务器上实现智能决策'
-date: 2025-02-17
+excerpt: '针对大规模边缘计算系统面临的卸载冲突问题，我们基于Seq2seq网络搭建智能体，部署在边缘服务器上实现了智能任务池控制器，配合传统的调度算法实现冲突避免'
+date: 2024-12-21
 venue: #
 paperurl: #
 ---
