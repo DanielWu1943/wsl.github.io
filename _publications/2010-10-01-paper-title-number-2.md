@@ -1,7 +1,7 @@
 ---
 title: "A Power Allocation Strategy in Mobile Edge Computing for Maximizing Sum Secrecy Rate"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-10-01
