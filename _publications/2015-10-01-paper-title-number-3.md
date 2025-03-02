@@ -1,7 +1,7 @@
 ---
 title: "TRDS-Net: A Resource-Efficient and Lightweight Convolutional Neural Network Model for Digit Recognition"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-10-01
