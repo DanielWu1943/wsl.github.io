@@ -6,22 +6,22 @@
 
 main:
   - title: "Publications"
-    url: https://danielwu1943.github.io/wsl.github.io/publications/
+    url: /publications/
 
-  - title: "Talks"
-    url: https://danielwu1943.github.io/wsl.github.io/talks/    
+  #- title: "Talks"
+  #  url: https://danielwu1943.github.io/wsl.github.io/talks/    
 
-  - title: "Teaching"
-    url: https://danielwu1943.github.io/wsl.github.io/teaching/    
+  #- title: "Teaching"
+  #  url: https://danielwu1943.github.io/wsl.github.io/teaching/    
     
-  - title: "Portfolio"
-    url: https://danielwu1943.github.io/wsl.github.io/portfolio/
+  #- title: "Portfolio"
+  #  url: https://danielwu1943.github.io/wsl.github.io/portfolio/
         
-  - title: "Blog Posts"
-    url: https://danielwu1943.github.io/wsl.github.io/year-archive/
+  #- title: "Blog Posts"
+  #  url: https://danielwu1943.github.io/wsl.github.io/year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
